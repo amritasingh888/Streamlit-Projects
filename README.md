@@ -249,26 +249,7 @@ This repository demonstrates:
 
 # 👨‍💻 Author
 
-**Ritesh Kumar**  
+**Amrita Singh**  
 
-AIPA (Artificial Intelligence & Professional Applications)  
-NSTI Bengaluru  
 
-Skills:
-Python | AI/ML | Deep Learning | SQL | Power BI | Streamlit
 
----
-
-# ⭐ Support
-
-If you found this repository useful:
-
-⭐ Star this repository  
-🍴 Fork the repository  
-📢 Share with others
-
----
-
-## License
-
-MIT License
