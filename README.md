@@ -41,6 +41,8 @@ ML-Projects/
 
 ### Description
 A deep learning project that recognizes handwritten digits using the **MNIST dataset** and a **Convolutional Neural Network (CNN)**.
+-----
+<img width="837" height="836" alt="image" src="https://github.com/user-attachments/assets/2119f027-09b0-4651-9dda-286e5d11baf1" />
 
 ### Technologies Used
 - Python
