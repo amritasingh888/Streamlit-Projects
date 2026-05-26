@@ -1,3 +1,4 @@
+
 # 🚀 Machine Learning & Streamlit Projects Collection
 
 This repository contains multiple **Machine Learning projects** developed using **Python, Scikit-Learn, TensorFlow, Streamlit, Pandas, and Matplotlib**.  
@@ -71,6 +72,8 @@ Predicts housing prices in Bengaluru using **Linear Regression** based on:
 - Area (sq.ft)
 - Bedrooms
 - Bathrooms
+---
+<img width="927" height="712" alt="Screenshot 2026-05-26 164316" src="https://github.com/user-attachments/assets/a617658a-9329-471b-a69b-4a0f66c8a3b6" />
 
 ### Technologies Used
 - Streamlit
@@ -108,6 +111,8 @@ Model predicts whether customer will:
 
 - Stay
 - Churn
+---
+<img width="914" height="848" alt="Screenshot 2026-05-26 165043" src="https://github.com/user-attachments/assets/c8256b35-8c2f-4135-b6e7-a33280816a5c" />
 
 ### Technologies
 
@@ -153,6 +158,9 @@ Predict species:
 Algorithm:
 
 - Logistic Regression
+
+<img width="925" height="694" alt="Screenshot 2026-05-26 165559" src="https://github.com/user-attachments/assets/0c73f742-b96b-4273-bb06-75d66a80f15a" />
+
 
 ### Features
 
